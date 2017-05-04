@@ -8,8 +8,6 @@ import httplib, urllib, json
 # (available from https://connect.squareup.com/apps)
 access_token = 'REPLACE_ME'
 
-#access_token = 'sandbox-sq0atb-j77JKUZl_MB3TftQbCwbdQ'
-
 # In addition to an Authorization header, requests to the Connect API should
 # include the indicated Accept and Content-Type headers.
 request_headers = {'Authorization': 'Bearer ' + access_token,
