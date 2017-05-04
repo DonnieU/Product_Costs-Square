@@ -6,7 +6,7 @@ import httplib, urllib, json
 # All requests to the Square Connect API require an access token in an
 # Authorization header. Specify your application's personal access token here
 # (available from https://connect.squareup.com/apps)
-access_token = 'sq0atp-Ht0Z_nNLfdudhO_Fz0VRUA'
+access_token = 'REPLACE_ME'
 
 #access_token = 'sandbox-sq0atb-j77JKUZl_MB3TftQbCwbdQ'
 
